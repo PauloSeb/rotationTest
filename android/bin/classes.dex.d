@@ -1,0 +1,26 @@
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\bin\classes.dex : \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\bin\classes\org\kde\necessitas\ministro\IMinistro$Stub$Proxy.class \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\bin\classes\org\kde\necessitas\ministro\IMinistro$Stub.class \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\bin\classes\org\kde\necessitas\ministro\IMinistro.class \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\bin\classes\org\kde\necessitas\ministro\IMinistroCallback$Stub$Proxy.class \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\bin\classes\org\kde\necessitas\ministro\IMinistroCallback$Stub.class \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\bin\classes\org\kde\necessitas\ministro\IMinistroCallback.class \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\bin\classes\org\qtproject\example\rotationTest\BuildConfig.class \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\bin\classes\org\qtproject\example\rotationTest\R$array.class \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\bin\classes\org\qtproject\example\rotationTest\R$attr.class \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\bin\classes\org\qtproject\example\rotationTest\R$layout.class \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\bin\classes\org\qtproject\example\rotationTest\R$string.class \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\bin\classes\org\qtproject\example\rotationTest\R.class \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$1.class \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$2.class \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$3$1$1.class \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$3$1.class \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$3.class \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$4.class \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$5.class \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$6.class \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\bin\classes\org\qtproject\qt5\android\bindings\QtActivity.class \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\bin\classes\org\qtproject\qt5\android\bindings\QtApplication$InvokeResult.class \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\bin\classes\org\qtproject\qt5\android\bindings\QtApplication.class \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\bin\dexedLibs\annotations-c80504eceeadc10b854a684bb650e778.jar \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\bin\dexedLibs\--Managed_by_Qt_Creator--QtAndroid-bundled-93c711dd9f1ea249eccf689a34d5cf28.jar \

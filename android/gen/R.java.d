@@ -1,0 +1,24 @@
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\gen\org\qtproject\example\rotationTest\R.java \
+ : C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\res\layout\splash.xml \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\res\values\libs.xml \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\res\values\strings.xml \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\res\values-de\strings.xml \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\res\values-el\strings.xml \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\res\values-es\strings.xml \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\res\values-et\strings.xml \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\res\values-fa\strings.xml \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\res\values-fr\strings.xml \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\res\values-id\strings.xml \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\res\values-it\strings.xml \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\res\values-ja\strings.xml \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\res\values-ms\strings.xml \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\res\values-nb\strings.xml \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\res\values-nl\strings.xml \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\res\values-pl\strings.xml \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\res\values-pt-rBR\strings.xml \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\res\values-ro\strings.xml \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\res\values-rs\strings.xml \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\res\values-ru\strings.xml \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\res\values-zh-rCN\strings.xml \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\res\values-zh-rTW\strings.xml \
+C:\Qt\Qt5.1.1\Tools\QtCreator\bin\rotationTest\android\bin\AndroidManifest.xml \
